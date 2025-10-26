@@ -1,0 +1,5 @@
+numpy==1.23.5 # Algèbre linéaire et calculs matriciels
+pandas==2.2.3 # Open CSV
+matplotlib==3.6.2 # graph
+Pillow==9.3.0 # image
+ipykernel==6.19.2 # notebooks

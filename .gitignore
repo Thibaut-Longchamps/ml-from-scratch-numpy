@@ -1,11 +1,11 @@
 # Ignore everything by default
 *
 
-# Keep these files
+# Keep important files
 !.gitignore
 !README.md
-!LICENSE
-!lin_reg_scratch.ipynb
+!requirements.txt
+!LICENCE
 
 # Keep data folder
 !data/
@@ -15,13 +15,15 @@
 !image/
 !image/**
 
-# Ignore everything else
+# Keep notebooks folder but ignore specific files inside
+!notebooks/
+!notebooks/lin_reg_scratch.ipynb
+notebooks/reg_log_scratch.ipynb
+notebooks/test.ipynb
+
+# Ignore junk and temp files
 .ipynb_checkpoints/
 __pycache__/
 *.pyc
 .DS_Store
 Thumbs.db
-
-# Explicitly ignore other notebooks
-reg_log_scratch.ipynb
-test.ipynb
