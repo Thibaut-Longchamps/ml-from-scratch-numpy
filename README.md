@@ -1,5 +1,5 @@
 # 🧠 ml-from-scratch-numpy
-Machine Learning algorithms from scratch with NumPy. Step-by-step notebooks cover gradient descent, cost functions, regularization, encoding, normalization, metrics, train/test split, and outlier handling.  
+Machine Learning algorithms and full pipeline from scratch with NumPy. Step-by-step notebooks cover gradient descent, cost functions, regularization, encoding, normalization, metrics, train/test split, and outlier handling.  
 
 Current models: **Linear Regression** and **Logistic Regression**.  
 Focus on **maths + code**, not shortcuts — see under the hood of ML.  
